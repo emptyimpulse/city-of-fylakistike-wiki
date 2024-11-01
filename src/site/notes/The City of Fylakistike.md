@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-city-of-fylakistike/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-city-of-fylakistike/","tags":["gardenEntry"],"dgShowInlineTitle":"false"}
 ---
 
 
