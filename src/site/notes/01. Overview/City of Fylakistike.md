@@ -16,7 +16,7 @@ The City of Fylakistike is a campaign setting for my TTRPGs based around Dungeon
 #### Cosmology
 To escape a cataclysmic event, a group of demigods, also referred to as the [[chosen of the gods\|chosen of the gods]], created the City of Fylakistike, a safe haven for the world's surviving beings. In hopes that the survivors can recuperate and reclaim the outside world again.
 
-The people of Fylakistike worship the Greek pantheon, 
+The people of Fylakistike worship the Greek pantheon. Even though they have been silent since the creation of the dome, they have a lot of holidays and celebrations that attribute to these gods.
 
 #### Geography
 The City of Fylakistike is encased in a sphere made out of a thick layer of crystals, more often referred to as [[02. Cosmology & Culture/Technology#The Crystalline Dome\|the dome]]. At the very top of the dome, there is an opening that allows for natural sunlight to shine through. 
